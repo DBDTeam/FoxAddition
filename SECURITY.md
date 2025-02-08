@@ -1,6 +1,6 @@
 # Security Policy
 
-## Supported Versions
+## Supported Versions 
 
 The latest version is only supported for fixes in security updates. Keep sure you're using the latest version for report any issue of security.
 
